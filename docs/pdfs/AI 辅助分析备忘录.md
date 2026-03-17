@@ -70,7 +70,7 @@
 
 #### 回答1（只截取部分）
 
-![image-20260316230753108](centerAI 辅助分析备忘录center.assets/image-20260316230753108.png)
+![image-20260316230753108](../images/centerAI 辅助分析备忘录center.assets/image-20260316230753108.png)
 
 ### 对话2
 
